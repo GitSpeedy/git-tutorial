@@ -1,2 +1,2 @@
-console.log('config');
-console.log('version12');
+console.log('index.js');
+console.log('version13');
